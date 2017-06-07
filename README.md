@@ -1,7 +1,7 @@
 # gomoku
 
 
-CSIS 330 Computer Graphics Siyang Luo (Shayne)
+
 1. Project Summary
 - The project I am working on is a game called “Gomoku”, which is an abstract strategy board game for two people playing in opposition.
 - It is traditionally played with Go pieces (black and white stones) on a go board with 19X19 intersections; however, because once placed, pieces are not moved or removed from the board.
