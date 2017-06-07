@@ -1,8 +1,8 @@
-# gomoku
+# Gomoku
 
 
 
-1. Project Summary 
+1. Project Summary:  
 
 - The project I am working on is a game called “Gomoku”, which is an abstract strategy board game for two people playing in opposition. 
 
